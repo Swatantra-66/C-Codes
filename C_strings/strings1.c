@@ -7,7 +7,7 @@ int main()
 
     for (int i = 0; i < 9; i++)
     {
-        printf("%c", _str[i]);
+        printf("%c\n", _str[i]);
     }
 
     return 0;

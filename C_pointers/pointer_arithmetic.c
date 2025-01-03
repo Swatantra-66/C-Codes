@@ -9,7 +9,7 @@ int main()
     printf("The address of a is %u\n", &a);
     printf("The address of a is %u\n", ptr1);
     ptr1++;
-    printf("The value of ptr1 is %u\n", ptr1);
+    printf("The value of ptr1 is %d\n", ptr1);
     return 0;
 }
 

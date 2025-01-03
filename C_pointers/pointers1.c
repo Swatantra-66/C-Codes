@@ -8,7 +8,7 @@
 int main()
 {
     int i = 56;
-    int *j = &i;                            //  j is a pointer pointing to i and (j is an interger pointer)
+    int *j = &i;                            //  j is a pointer pointing to i and (j is an integer pointer)
     printf("The address of i is %p\n", &i); // we can use any of them
     printf("The address of i is %p\n", j);  //
     // we can use unsigned int is %u for exact valuee of memory address
